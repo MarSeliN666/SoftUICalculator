@@ -1,0 +1,2 @@
+rootProject.name='SoftUICalculator'
+include ':app'

@@ -1,0 +1,30 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+        <item name="android:statusBarColor">@color/colorBackWhite</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+
+    <style name="TopLeftShadow">
+        <item name="shadowLayoutBlur">7dp</item>
+        <item name="shadowLayoutColor">#F7F8F8</item>
+        <item name="shadowLayoutDx">-6dp</item>
+        <item name="shadowLayoutDy">-6dp</item>
+    </style>
+
+    <style name="BottomRightShadow">
+        <item name="shadowLayoutBlur">5dp</item>
+        <item name="shadowLayoutColor">#CFCFCF</item>
+        <item name="shadowLayoutDx">4dp</item>
+        <item name="shadowLayoutDy">4dp</item>
+    </style>
+
+
+
+</resources>
